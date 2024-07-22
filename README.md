@@ -1,7 +1,7 @@
 Android Application build to show Product deals and and deals deatils using 
-Jetpack compose
-Retrofit Network Library
-Coil to load images from the server url
+Jetpack compose,
+Retrofit Network Library,
+Coil to load images from the server url,
 Hilt for dependency injection
 
 
